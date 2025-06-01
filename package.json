@@ -1,0 +1,27 @@
+{
+    "name": "light-jb",
+    "displayName": "Light by JB",
+    "description": "The light theme designed by JB",
+    "version": "0.0.1",
+    "publisher": "the-jb",
+    "engines": {
+        "vscode": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/the-jb/light-jb"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Light (JB)",
+                "uiTheme": "vs",
+                "path": "./themes/light-color-theme.json"
+            }
+        ]
+    }
+}
