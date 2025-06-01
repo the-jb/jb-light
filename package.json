@@ -2,10 +2,10 @@
     "name": "light-jb",
     "displayName": "Light by JB",
     "description": "The light theme designed by JB",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "the-jb",
     "engines": {
-        "vscode": "*"
+        "vscode": "^1.43.1"
     },
     "repository": {
         "type": "git",
